@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Trafico de influencias B)
+subtitle: Trafico de influencias BB
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Elliot Cazar. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Currently in my second year studying Computer Science Engineering at the National Polytechnic School.
+- Certified industrial drone pilot issued by ADS (Aerial Development Services
+- Advanced Level 2 English Certificate issued by CEC (Continuing Education Center
 
 What else do you need?
 
