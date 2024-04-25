@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website xd
+title: Elliot Cazar
 
 # Your name to show in the footer
-author: Some Person
+author: Elliot
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,21 +50,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "elliot.cazar12@gmail.com"
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: elliot12-l
+  twitter: Elliot_C12
+# patreon: DeanAttali
+# youtube: "@daattali"
+  whatsapp: 0981393227
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: elliot.l12
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
