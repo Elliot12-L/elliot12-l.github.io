@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Construccion de un UAV con el equipo de ATA (Aerodinámica y Termofluidos Aplicada)
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+subtitle: UAV craft
+cover-img: /assets/img/thumb.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/thumb.png
 tags: [books, test]
