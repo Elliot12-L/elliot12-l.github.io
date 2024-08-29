@@ -20,7 +20,7 @@ author: Elliot
 ###############################################
 
 navbar-links:
-  Home: "https://elliot12-l.github.io"
+  Home: "https://elliot12c.github.io"
   About Me: "aboutme"
   ### Resources:
   ###  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -54,7 +54,7 @@ social-network-links:
   email: "elliot.cazar12@gmail.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: elliot.l12
-  github: elliot12-l
+  github: elliot12c
   twitter: Elliot_C12
 # patreon: DeanAttali
 # youtube: "@daattali"
